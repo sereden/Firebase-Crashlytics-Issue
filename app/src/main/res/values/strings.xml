@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Firebase-Crashlytics-Issue</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Event from the APP that crashes</string>
+    <string name="event_sdk">Non fatal event from the SDK</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">This project describes that the FirebaseCrashlytics delivers crashes to the same project even when several configurations are applied.\n
+The SDK (is a 3rd party library) has its own configuration and expects its own logs. The app integrates SDK and wants to discover its crashes
+    </string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1046598947166",
+    "firebase_url": "https://first-energy-768.firebaseio.com",
+    "project_id": "first-energy-768",
+    "storage_bucket": "first-energy-768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046598947166:android:179ba6ebdf29555c86ffcf",
+        "android_client_info": {
+          "package_name": "com.prinum.baitushum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046598947166-me0rlgj3intq9v7vpg5eplfa5ddi7and.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE_kqDsyK34wRLjODO9Mc1qDIDpg1W32o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046598947166-me0rlgj3intq9v7vpg5eplfa5ddi7and.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

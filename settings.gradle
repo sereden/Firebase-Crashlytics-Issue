@@ -1,0 +1,3 @@
+rootProject.name = "Firebase-Crashlytics-Issue"
+include ':app'
+include ':SDK'
